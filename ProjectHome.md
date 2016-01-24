@@ -1,0 +1,1 @@
+The LoL shield is an open Arduino shield, with Lots of LEDs on it, hence the name. This page is no longer the official page, as google code is shutting down. You may get the official library at: https://github.com/jprodgers/LoLshield
